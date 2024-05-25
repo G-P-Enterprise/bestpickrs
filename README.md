@@ -52,7 +52,3 @@ Becoming a part of Bestpickrs is simple. Whether you're a seasoned professional 
 Have questions or feedback? Feel free to reach out to us at [contact@bestpickrs.com](mailto:contact@bestpickrs.com).
 
 We’re excited to see what we can achieve together!
-
----
-
-Copy and paste this content into your README.md file on GitHub, replacing any placeholder text (such as the logo image path and specific URLs) with your actual project details.
